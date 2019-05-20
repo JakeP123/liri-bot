@@ -1,5 +1,7 @@
-# liri-bot
-Liri Bot CLI 
+
+#Liri Bot CLI 
+
+Thank You For Using Liri Bot!
 
 ## Use Our CLI Liri Bot To Access The Following Information.
 
