@@ -14,7 +14,7 @@ From Your Terminal / Command Line Interface type "node liri.js" + one of the fol
 5) help - You can use this command at any time to see these options via the terminal.
 6) If no command is selected, "Invalid Command" will be returned the CLI.
   
-## H2 Packages
+## Packages
 To run this program, you must download the following npm packages.
 -dotenv
 -fs
