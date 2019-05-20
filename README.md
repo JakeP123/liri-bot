@@ -9,7 +9,7 @@ From Your Terminal / Command Line Interface type "node liri.js" + one of the fol
   * If you do nto see your song, try typing the artists name after the song.
   * If no song is selected, Signs by Ace Of Base will be displayed.
 3. movie-this <movie title> - This will return information for this movie including release date, language, and even IMDB/Rotten Tomatoes Ratings.
-  *If no movie is selected, you will be prompted to try "Mr. Nobody."
+  * If no movie is selected, you will be prompted to try "Mr. Nobody."
 4. do-what-it-says <enter> - You will be provided a suggestion that we strongly recommend you try!
 5. help - You can use this command at any time to see these options via the terminal.
 6. If no command is selected, "Invalid Command" will be returned the CLI.
